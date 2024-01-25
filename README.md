@@ -26,7 +26,7 @@
 
 ### Help Desk Application
 * 🎟 A full-stack web application that acts as a user help desk for creating and managing tickets.
-* 🚀 Built with NextJS and FastAPI with a PostgreSQL database
+* 🚀 Built with NextJS and ExpressJS with a PostgreSQL database
 * 🔗 Check out [Help Desk's codebase](https://github.com/gbs278/bioverse-helpdesk)
 
 ## Contact
